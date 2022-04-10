@@ -1,0 +1,45 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color:#766F68;
+  margin: 10px 20px 20px 30px;
+}
+li{
+  display: inline;
+  padding: 5px;
+ 
+}
+.pageName{
+  color: #D2872C;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  margin: 10px;
+  padding: 20px;
+}
+.descriptiveSection h2{
+  margin-left:10px;
+  padding: 20px;
+}
+
+.descriptiveSection img{
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+}
+
+button{
+  background-color:#D2872C;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 15px;
+  margin-left: 35px;
+  width: 18%;
+  box-shadow: 0;
+  border: none;
+}
